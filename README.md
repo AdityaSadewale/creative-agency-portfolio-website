@@ -44,3 +44,24 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```cmd
    git clone [https://github.com/AdityaSadewale/Python-Projects-Scries.git](https://github.com/AdityaSadewale/Python-Projects-Scries.git)
+
+📥 Getting Started
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+DOS
+git clone https://github.com/AdityaSadewale/Python-Projects-Scries.git
+Navigate into the directory:
+
+DOS
+cd creative-agency-portfolio
+Install dependencies:
+
+DOS
+npm install
+Start the development server:
+
+DOS
+npm run dev
+🤝 ContactSince you are looking to build a professional README.md for your Creative Agency Portfolio project, here is a structured template. It balances technical detail with the "creative" flair required for a design-focused agency.
