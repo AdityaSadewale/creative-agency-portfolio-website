@@ -27,6 +27,7 @@ import {
   ArrowUp
 } from 'lucide-react';
 
+
 // Types
 interface Service {
   id: string;
@@ -98,6 +99,7 @@ const SERVICES: Service[] = [
     image: '/invite_banner_bg.png'
   }
 ];
+
 
 interface BrandingCase {
   id: string;
