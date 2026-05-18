@@ -38,6 +38,7 @@ interface Service {
   image: string;
 }
 
+
 interface Package {
   name: string;
   price: string;
