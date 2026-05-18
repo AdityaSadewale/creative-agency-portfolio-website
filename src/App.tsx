@@ -28,7 +28,6 @@ import {
 } from 'lucide-react';
 
 
-
 // Types
 interface Service {
   id: string;
