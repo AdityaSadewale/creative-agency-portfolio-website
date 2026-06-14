@@ -425,6 +425,8 @@ export default function App() {
             </div>
           </motion.div>
 
+
+          
           {/* Navnath Side (Middle) */}
           <motion.div
             className="relative flex-1 min-h-[50vh] lg:min-h-0 group overflow-hidden bg-surface/50 lg:text-center text-left border-b lg:border-b-0 lg:border-r border-white/5"
