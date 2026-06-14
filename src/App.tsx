@@ -233,6 +233,8 @@ const Logo = () => (
   </div>
 );
 
+
+
 export default function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [activeMember, setActiveMember] = useState<'aditya' | 'ajit' | 'navnath' | null>(null);
