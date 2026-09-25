@@ -29,7 +29,6 @@ import {
 
 
 
-
 // Types
 interface Service {
   id: string;
@@ -235,7 +234,6 @@ const Logo = () => (
     </div>
   </div>
 );
-
 
 
 export default function App() {
