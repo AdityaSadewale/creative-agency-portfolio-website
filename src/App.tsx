@@ -47,6 +47,7 @@ interface Package {
 }
 
 
+
 type WorkCategory = 'All' | 'Video Editing' | 'Branding' | 'Web Development';
 
 interface WorkItem {
